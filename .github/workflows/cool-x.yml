@@ -33,4 +33,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: reg.cchool.xyz/pub/nginxx:latest
+          tags: reg.cchool.xyz/pub/nxx:latest
